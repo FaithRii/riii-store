@@ -1,70 +1,78 @@
-# Getting Started with Create React App
+# RIII&. — Online Fashion Store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> *All Your Desires. One Place.*
 
-## Available Scripts
+RIII&. is a premium online clothing store built for the bold, the elegant, and everyone in between. A one-stop fashion destination for men and women with a dark luxury aesthetic.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🖤 About RIII&.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+RIII&. is a full-stack e-commerce fashion store featuring:
+- A captivating dark luxury UI with gold accents
+- Shopping for both Men & Women
+- Multiple fashion aesthetics in one place
+- M-Pesa & Card payment integration
+- Full order tracking system
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+ 🚀 Tech Stack
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Layer & Technology |
 
-### `npm run build`
+| Frontend : React.js + Tailwind CSS |
+| Animations : Framer Motion |
+| Backend : Node.js + Express.js |
+| Database :PostgreSQL |
+| Payments : M-Pesa Daraja API + Stripe |
+| Hosting :Vercel + Railway |
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+ 📁 Project Status
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| Phase | Status |
+|-------|--------|
+| Phase 1 — Brand Identity | ✅ Complete |
+| Phase 2 — Frontend | 🔨 In Progress |
+| Phase 3 — Backend | ⏳ Coming Soon |
+| Phase 4 — Payments | ⏳ Coming Soon |
+| Phase 5 — Launch | ⏳ Coming Soon |
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🛠️ Running Locally
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/riii-store.git
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2. Install dependencies
+```bash
+cd riii-store
+npm install
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Start the development server
+```bash
+npm start
+```
 
-## Learn More
+4. Open your browser at `http://localhost:3000`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 📄 Brand Identity
 
-### Code Splitting
+- **Primary Color:** RIII Black `#0A0A0A`
+- **Accent Color:** RIII Gold `#C9A84C`
+- **Typography:** Playfair Display · Lora · Montserrat
+- **Aesthetic:** Dark Luxury · Edgy · Premium
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+*Built with vision. Dressed with purpose.* 🖤
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
