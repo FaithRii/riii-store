@@ -19,14 +19,14 @@ RIII&. is a full-stack e-commerce fashion store featuring:
 
  🚀 Tech Stack
 
-| Layer & Technology |
+| Layer | Technology |
 
-| Frontend : React.js + Tailwind CSS |
-| Animations : Framer Motion |
-| Backend : Node.js + Express.js |
-| Database :PostgreSQL |
-| Payments : M-Pesa Daraja API + Stripe |
-| Hosting :Vercel + Railway |
+| Frontend | React.js + Tailwind CSS |
+| Animations | Framer Motion |
+| Backend | Node.js + Express.js |
+| Database |PostgreSQL |
+| Payments | M-Pesa Daraja API + Stripe |
+| Hosting |Vercel + Railway |
 
 ---
 
